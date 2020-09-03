@@ -23,4 +23,4 @@ Users input a text which is then encrypted using the Caesar Cipher encryption me
 
 ## Decrypt
 
-Users select an text encrypted through Caesar Cipher and a directory of databases to decrypt the text.
+Users select a text encrypted through Caesar Cipher and a directory of databases to decrypt the text.
