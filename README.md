@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-Caesar Cipher is the name of an encryption method, but in this case, it is a general name for the project which includes various text reading functions; including an encrypter.
+Caesar Cipher is the name of an encryption method, but in this case, it is a general name for this project which includes various text reading functions; including an encrypter.
 The GUI is built using JavaFX.
 There currently exists 5 tabs.
 
