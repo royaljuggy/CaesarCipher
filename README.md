@@ -6,7 +6,7 @@ There currently exists 5 tabs.
 
 ## Database 
 
-This tab allows users to select a passage, reading, or any miscellaneous text (file format txt) which is then used to create a database of words and their respective frequencies.
+This tab allows users to select one or more passage, reading, or any miscellaneous text. The text(s) is then used to create a database of words and their respective frequencies.
 Users must select a language for the database, which will come in handy for the Detect Language tab and Decrypter tabs.
 
 ## Explore Database
